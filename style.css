@@ -275,4 +275,23 @@ td, th {
 		width: 100%;
 	}
 
+
+	/* pagina de produto*/
+	.produtos {
+		width: auto;
+		padding: 10px 0 1px; 
+	}
+
+	.produtos li {
+		width: 98%;
+		display: block;
+		margin: 0 0 10px;
+	}
+
 }
+
+
+
+
+
+
